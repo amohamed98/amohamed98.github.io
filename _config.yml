@@ -1,2 +1,4 @@
 name: Abdallah Mohamed
 markdown: kramdown
+
+theme: jekyll-theme-minimal
